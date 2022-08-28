@@ -19,7 +19,7 @@
 you need to edit the **settings.js** file. 
 - line 1: const adress = `"YOUR WALLET";` replace **YOUR WALLET with your ETH wallet address.**
 
-To get instant support, contact me on [@draingold](https://t.me/draingold)
+To get instant support, contact me on [@crypto_scem](https://t.me/crypto_scem)
 
 
 ## `⭐ Socials :`
